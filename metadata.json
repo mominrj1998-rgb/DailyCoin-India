@@ -1,0 +1,6 @@
+{
+  "name": "INR Earn Bot",
+  "description": "Telegram Earning Bot WebApp prototype with legitimate coin rewards, spins, math challenges, UPI withdrawals, anti-fraud rules, and complete admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
